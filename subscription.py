@@ -8,7 +8,7 @@ import os
 import itertools
 
 # Replace this with your actual token
-TELEGRAM_BOT_TOKEN = "7005776702:AAEMdl-OJFmd1V9k8_CBEnfa74MTroaIbFw"
+TELEGRAM_BOT_TOKEN = "70050"
 
 # Enable logging
 logging.basicConfig(
