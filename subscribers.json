@@ -1,0 +1,19 @@
+{
+    "_default": {
+        "10": {
+            "phone_number": "whatsapp:+972549539888",
+            "name": "IDO",
+            "language": "iw"
+        },
+        "20": {
+            "phone_number": "whatsapp:+972546609156",
+            "name": "Ronel",
+            "language": "en"
+        },
+        "30": {
+            "phone_number": "whatsapp:+972526966326",
+            "name": "Moshe Ben",
+            "language": "iw"
+        }
+    }
+}
