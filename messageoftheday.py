@@ -13,12 +13,12 @@ from deep_translator import GoogleTranslator
 import subscription  # Import the subscription module
 
 # Twilio account credentials
-account_sid = 'ACd73b9b2cf303706bf7adacc8806eea5d'
-auth_token = '506e814351b774aca809f4f64866849a'
-twilio_whatsapp_number = 'whatsapp:+14155238886'
+account_sid = 'ACd73b9b2c'
+auth_token = '506e8143'
+twilio_whatsapp_number = 'whatsapp:+1'
 
 # Imgur Client ID
-imgur_client_id = '72b55fa928fc2f1'
+imgur_client_id = '72b'
 
 # Initialize Twilio Client
 client = Client(account_sid, auth_token)
